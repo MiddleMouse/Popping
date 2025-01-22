@@ -13,9 +13,29 @@
 				"D:/Dropbox/Repos/Popping/PoppingProject/Content/StarterContent/Props/Materials/M_Chair.uasset",
 				"D:/Dropbox/Repos/Popping/PoppingProject/Content/StarterContent/Props/Materials/M_TableRound.uasset",
 				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Materials/BubblePopShader_Mat.uasset",
-				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Materials/BubblePopShader_Mat_Modified.uasset",
 				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Materials/BubblePopShader_Mat_Modified_v02.uasset",
-				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Materials/BubblePopShader_Mat_Modified_v01.uasset"
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Materials/BubblePopShader_Mat_Modified_v01.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/AssetsvilleTown/Meshes/Characters/SK_citizen_male_01.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Meshes/SK_citizen_male_01.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Meshes/SK_citizen_male_01_Pop.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Pose/SkeletonCharacter_PoseAsset_Pop.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/AssetsvilleTown/Poses/A_characterPoses/Driving_A_characterPoses1.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Pose/SkeletonCharacter_PoseAsset_Standing.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Meshes/SK_citizen_male_01_ARM_Pop.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Meshes/SkeletonCharacterPop.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Meshes/SkeletonCharacterArmPop.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/AssetsvilleTown/Poses/A_characterPoses.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Pose/AnimationBlueprint_Pop.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Pose/AnimationMontage_Pop.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Maps/ControlRig/Pose/ControlRigPose_Pop.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Maps/ControlRig/Pose/ControlRigPose_Stand.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/AssetsvilleTown/Poses/A_characterPoses/Driving_A_characterPoses.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/AssetsvilleTown/Poses/A_characterPoses/Driving_A_characterPoses2.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/AssetsvilleTown/Meshes/Characters/PH_characterPhysicsAsset.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/AssetsvilleTown/Meshes/Characters/SK_citizen_male_32.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/AssetsvilleTown/Meshes/Characters/SkeletonCharacter_AnimBlueprint.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/AssetsvilleTown/Meshes/Characters/SkeletonCharacter_AnimBlueprint1.uasset",
+				"D:/Dropbox/Repos/Popping/PoppingProject/Content/PoppingContent/Materials/BubblePopShader_Mat_Modified.uasset"
 			]
 		}
 	]
